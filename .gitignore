@@ -1,0 +1,3 @@
+#ignore all data files
+/S2 original images
+/unet_multi_data
